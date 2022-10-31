@@ -2,7 +2,7 @@
 
 ## Description
 
-This repo contains the toolings that was developped while writing the following blog post [ LINK ]. The blog post contains all necesary information to understand how the token manipulation internal mechanism works and how we can use it to our advantage.
+This repo contains the toolings that was developped while writing the following blog post https://sensepost.com/blog/2022/abusing-windows-tokens-to-compromise-active-directory-without-touching-lsass/. The blog post contains all necesary information to understand how the token manipulation internal mechanism works and how we can use it to our advantage.
 
 ## Content
 

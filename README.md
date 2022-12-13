@@ -16,6 +16,7 @@ This repo contains four tools:
 
 The Impersonate.exe tool contains three modules:
 - Impersonate list: which will list available tokens
+![image](https://user-images.githubusercontent.com/23189983/207414707-7851b866-f3dd-4a17-8195-6c24f13ceb91.png)
 - Impersonate exec: which will allow you running commands impersonating a user
 - Impersonate adduser: which will allow you elevating your privileges to domain admin
 
